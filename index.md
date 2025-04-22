@@ -8,3 +8,9 @@ import logging
 
 favorite_team = os.environ['Ravens']
 ```
+
+- [x] Become the leading rushing QB of all time
+- [x] Win multiple MVPs
+- [x] Throw for 40 TDs & 4000 yards, while still rushing for 900
+- [x] Win the Heisman
+- [ ] Win a Super Bowl (!) - Coming Soon! 
